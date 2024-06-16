@@ -1,0 +1,1086 @@
+body{
+  overflow-x: hidden;
+}
+.header1 {
+    background-color: hsl(218.79deg 52.94% 36.67%);
+    color: white;
+    font-size: 15px;
+    font-weight: 600;
+    padding-bottom: 6px;
+    padding-left: 7px;
+    padding-top: 4px;
+  }
+  .header9 {
+    color: black;
+    background-color: hsl(213.75deg 100% 96.86%);
+    border: none;
+    padding-right: 2000px;
+    height: 26px;
+    font-size: 15px;
+    margin-top: -1px;
+  }
+ 
+  .btn.main {
+    color: white;
+    background-color: hsl(214.86deg 54.4% 62.16%);
+    height: 22px;
+    width: 1px;
+    border-radius: 0;
+    border: none;
+    font-size: 12px;
+    padding-right: 34px;
+    position: absolute;
+    margin-left: -10px;
+    padding-top: 1px;
+  top: 208px;
+  }
+  
+  .btn.ne {
+    top:35px;
+    position: absolute;
+    margin-left: 14px;
+    font-weight: 600;
+    border: none;
+    font-size: 14px;
+    background-color:#eff6ff;
+  }
+  .btn.hi {
+    top: 35px;
+    position: absolute;
+    margin-left: 60px;
+    font-weight: 600;
+    background-color:#eff6ff;
+    border: none;
+    font-size: 14px;
+  }
+  
+  .btn.sub {
+    background-color:hsl(205.14deg 42.86% 48.04%);
+    color: white;
+    width: 66px;
+    height: 25px;
+    line-height: 10px;
+    border-radius: 0;
+    margin-top: 12px;
+    border: none;
+    margin-left: 1220px;
+    font-size: 13px;
+    position: absolute;
+  }
+  .btn.exito {
+    background-color:hsl(205.14deg 42.86% 48.04%);
+    color: white;
+    border: none;
+    width: 45px;
+    height: 25px;
+    line-height: 10px;
+    border-radius: 0;
+    margin-top: 12px;
+    margin-left: 1290px;
+    font-size: 13px;
+    position: absolute;
+  }
+ 
+  .maker {
+    margin-left: 80px;
+    font-size: 13px;
+    font-size: 12.5px;
+    font-weight: 500;
+    margin-top: 6px;
+    position:absolute;
+  }
+  
+  .checker {
+    margin-top: 28px;
+    margin-left: 73px;
+    position: absolute;
+    font-size: 12.5px;
+    font-weight: 500;
+  }
+  
+  .date {
+    margin-top: 28px;
+    position: absolute;
+    margin-left: 350px;
+    font-size: 12.5px;
+    font-weight: 500;
+  }
+  
+  .time {
+    margin-top: 7px;
+    position: absolute;
+    margin-left: 350px;
+    font-size: 12.5px;
+    font-weight: 500;
+  }
+  .mod {
+    margin-top: 10px;
+    position: absolute;
+    margin-left: 660px;
+    font-size: 12.5px;
+    font-weight: 500;
+  }
+  .reco{
+    margin-top: 6px;
+    margin-left: 990px;
+    font-size: 12.5px;
+    font-weight: 500;
+    position: absolute;
+  }
+  .auth {
+    margin-top: 27px;
+    margin-left: 950px;
+    position: absolute;
+    font-size: 12.5px;
+    font-weight: 500;
+  }
+  .btn.arrow {
+    margin-left: 1340px;
+  }
+  .button-container {
+    margin-top: -37px;
+  }
+  
+  .footerthere {
+    background-color: hsl(205.71deg 59.04% 83.73%);
+    padding-bottom: 50px;
+  top: 640px;
+    position: absolute;
+    width: 100%;
+  }
+
+  .footerup {
+    background-color: hsl(213.75deg 100% 96.86%);
+    padding-bottom: 50px;
+    top:550px;
+    height: 44px;
+    position:absolute;
+  }
+  .footerupbtn {
+    background-color: hsl(213.75deg, 100%, 96.86%);
+    font-size: 12px;
+    border: none;
+    margin-right: 15px;
+    margin-top: 16px;
+    font-weight: 500;
+  }
+  .footerupbtn:last-child {
+    border-right: none;
+  }
+  .cust{
+  color: hsl(0.28deg 90.76% 46.67%);
+  font-size: 12px;
+  font-weight: 700;
+  left:115px;
+  top:70px;
+  position: absolute;
+  }
+  .cur{
+    color:hsl(0.28deg 90.76% 46.67%);
+    font-size: 12px;
+    font-weight: 700;
+    top:93px;
+    left:138px;
+    position: absolute;
+    }
+  .stat{
+    color:hsl(0.28deg 90.76% 46.67%);
+    font-size: 12px;
+    font-weight: 700;
+    top:116px;
+    left:110px;
+    position: absolute;
+    }
+  .btn.fetcho{
+    background-color:hsl(60deg 18.75% 93.73%) ;
+    color:hsl(180deg 1.92% 79.61%);
+    border: 1.5px hsl(180deg 1.92% 79.61%) solid;
+    height: 20px;
+    font-size: 12px;
+    margin-left: 274px;
+    margin-top: 67px;
+    border-radius: 0;
+    display: flex;
+    align-items: center;
+  }
+  .true {
+   left: 186px;
+    position: absolute;
+    top: 155px;
+    background-color: hsl(75, 13%, 94%);
+  }
+ 
+  .sang{
+    font-size: 12px;
+    font-weight: 500;
+    margin-left: 210px;
+   bottom:447px;
+    position: absolute;
+  }
+  .acttype{
+    font-size: 12px;
+    font-weight: 500;
+    margin-left: 410px;
+   bottom: 490px;
+    position: absolute;
+  }
+  
+  .sd{
+    font-size: 12px;
+    font-weight: 500;
+    margin-left: 82px;
+   bottom: 425px;
+    position: absolute;
+  }
+  .aux {
+    font-size: 12px;
+    font-weight: 500;
+    margin-left: 45px;
+    bottom: 395px;
+    position: absolute;
+    border-right: 2px solid hsl(0deg 0% 89.41%); 
+    padding-right: 5px;
+  }
+  .nom{
+     font-size: 12px;
+    font-weight: 500;
+    margin-left: 105px;
+   bottom: 395px;
+    position: absolute;
+    border-right: 2px solid hsl(0deg 0% 89.41%); 
+    padding-right: 5px;
+  }
+  .cl{
+    position: absolute;
+    font-size: 12px;
+    font-weight: 500;
+    margin-left: 170px;
+   bottom: 395px;
+    position: absolute;
+    border-right: 2px solid hsl(0deg 0% 89.41%); 
+    padding-right: 5px;
+  }
+  .ad{
+    position: absolute;
+    left:80px;
+    position: absolute;
+    font-size: 12px;
+    font-weight: 500;
+    top:240px;
+  }
+  
+  .at{
+    position: absolute;
+    left:117px;
+    font-size: 12px;
+    font-weight: 500;
+    top:280px;
+  }
+  .single{
+    position: absolute;
+    left:220px;
+    font-size: 12px;
+    font-weight: 500;
+    top:280px;
+  }
+  .joint{
+    position: absolute;
+    left:220px;
+    font-size:12px;
+    font-weight: 500;
+    top:296px;
+  }
+  
+  input[type="radio"] {
+    appearance: none;
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    width: 13px; 
+    height: 13px; 
+    border-radius: 50%; 
+  }
+  input[type="radio"]:checked {
+    background-color: hsl(214.86deg 54.4% 62.16%);
+  }
+  
+  .buttonok {
+    left: 198px;
+    top: 278px;
+    position: absolute;
+    height: 13px;
+    cursor: pointer;
+  }
+  .buttonozy{
+    left: 198px;
+    top: 296px;
+    position: absolute;
+    height: 13px;
+  }
+  .mode{
+    position: absolute;
+    left:88px;
+    font-size:12px;
+    font-weight: 500;
+    top:315px;
+  }
+  .on,.off{
+    font-size: 12px;
+    font-weight: 500;
+  }
+  
+  .oprat {
+    width: 150px;
+    border: 2px solid hsl(60deg 4.48% 86.86%);
+    font-size: 12px;
+    font-weight: 500;
+    position: absolute;
+    height: 20px;
+    align-items: center;
+    display: flex;
+    justify-content: center; 
+    background-color: hsl(50deg 18.75% 93.73%);
+    margin-left: 202px;
+    margin-top: 180px;
+  }
+  .acd{
+    position: absolute;
+    left:85px;
+  top:342px;
+  font-size: 12px;
+  font-weight: 500;
+  }
+  .ac  {
+    position: absolute;
+    left:115px;
+  top:367px;
+  font-size: 12px;
+  font-weight: 500;
+  }
+  .add   {
+    position: absolute;
+    left:136px;
+  top:393px;
+  font-size: 12px;
+  font-weight: 500;
+  }
+  .addd   {
+    position: absolute;
+    left:136px;
+  top:417px;
+  font-size: 12px;
+  font-weight: 500;
+  }
+  .adddd   {
+    position: absolute;
+    left:136px;
+  top:440px;
+  font-size: 12px;
+  font-weight: 500;
+  }
+  .addddd  {
+    position: absolute;
+    left:136px;
+  top:463px;
+  font-size: 12px;
+  font-weight: 500;
+  }
+  .pin   {
+    position: absolute;
+    left:146px;
+  top:486px;
+  font-size: 12px;
+  font-weight: 500;
+  }
+  .loc   {
+    position: absolute;
+    left:145px;
+  top:507px;
+  font-size: 12px;
+  font-weight: 500;
+  color:hsl(0.28deg 90.76% 46.67%)
+  }
+  
+  .form-check-label.cb  {
+    position: absolute;
+    left:674px;
+    top:250px;
+    font-size: 12px;
+  font-weight: 500;
+  }
+  .checkone{
+    position: absolute;
+    top:268px;
+    left:654px;
+    height: 3px;
+    width: 28px;
+  }
+  input[type="checkbox"] {
+    background-color: hsla(0, 7%, 82%, 0.911) !important;
+    color: white;
+    height: 14px;
+    border: none;
+    width: 14px;
+}
+input[type="checkbox"]:checked {
+  background-color: hsl(214.86deg 54.4% 62.16%);
+}
+  .checktwo{
+    position: absolute;
+    left:654px;
+    top:250px;
+    height: 13px;
+    width: 13px;
+  }
+  .checkthree{
+    position: absolute;
+    left:654px;
+    height: 13px;
+    width: 13px;
+    top:288px;
+  }
+  .checkfour{
+    position: absolute;
+    left:654px;
+    height: 13px;
+    width: 13px;
+    top:308px;
+  }
+  .checkfive{
+    position: absolute;
+    left:654px;
+    height: 13px;
+    width: 13px;
+    border: none;
+    top:328px;
+  }
+  .form-check-label.pb  {
+    position: absolute;
+    left:673px;
+    top:270px;
+    font-size: 12px;
+  font-weight: 500;
+  }
+
+  .form-check-label.cas  {
+    position: absolute;
+    left:673px;
+    top:290px;
+    font-size: 12px;
+  font-weight: 500;
+  }
+  .form-check-label.atm  {
+    position: absolute;
+    left:673px;
+    top:310px;
+    font-size: 12px;
+  font-weight: 500;
+  }
+  .form-check-label.db  {
+    position: absolute;
+    left:673px;
+    top:330px;
+    font-size: 12px;
+  font-weight: 500;
+  }
+  .if   {
+    position: absolute;
+    left:460px;
+    font-size: 12px;
+  font-weight: 700;
+  top:360px;
+  }
+  .aoa   {
+    position: absolute;
+    left:510px;
+    top:385px;
+    font-size: 12px;
+  font-weight: 500;
+  }
+  .pio   {
+    position: absolute;
+    left:580px;
+    top:410px;
+    font-size: 12px;
+  font-weight: 500;
+  }
+  .ob  {
+    position: absolute;
+    left:580px;
+    top:450px;
+    font-size: 12px;
+  font-weight: 500;
+  }
+  .oa   {
+    position: absolute;
+    left:573px;
+    top:475px;
+    font-size: 12px;
+  font-weight: 500;
+  }
+  .button2{
+    left: 660px;
+    top: 412px;
+    position: absolute;
+    height: 13px;
+  }
+  .button3{
+    left: 660px;
+    top: 429px;
+    position: absolute;
+    height: 13px;
+  }
+  .pay   {
+    position: absolute;
+    left:682px;
+    top:414px;
+    font-size: 12px;
+  font-weight: 500;
+  }
+  .payin   {
+    position: absolute;
+    left:682px;
+    top:430px;
+    font-size: 12px;
+  font-weight: 500;
+  }
+  .waoc   {
+    position: absolute;
+    left:684px;
+    top:500px;
+    font-size: 12px;
+  font-weight: 500;
+  }
+  .waive{
+  position: absolute;
+  left:662px ;
+  top:509px;
+  }
+  .cn{
+    position: absolute;
+    left:800px;
+    top:70px;
+    font-size: 12px;
+  font-weight: 500;
+  }
+  .accc  {
+    position: absolute;
+    left:845px;
+    top:90px;
+    font-size: 12px;
+  font-weight: 500;
+  color:hsl(0.28deg 90.76% 46.67%);
+  }
+  .brn   {
+    position: absolute;
+    left:852px;
+    top:111px;
+    font-size: 12px;
+  font-weight: 500;
+  color:hsl(0.28deg 90.76% 46.67%);
+  }
+  .priv{
+    position: absolute;
+    left:920px;
+    top:131px;
+    font-size: 12px;
+  font-weight: 500;
+  }
+  .pri{
+    position: absolute;
+    left:896px;
+    top:142px;
+  }
+  .zero   {
+    position: absolute;
+    left:900px;
+    top:116px;
+    font-size: 12px;
+  font-weight: 500;
+  background-color: hsl(0deg 0% 98.43%);
+  height:18px;
+  border-bottom: solid 1px hsl(0, 0%, 88%);
+  border-top: none;
+  width:40px;
+  top:110px;
+  position: absolute;
+  }
+  .mca  {
+    position: absolute;
+    left:762px;
+    font-size: 12px;
+    font-weight: 500;
+    top:150px
+  }
+  .draw15 {
+    border-top:2px solid hsl(0deg 0% 89.41%); 
+    right:466px;
+    width:320px;
+    top:224px;
+    position: absolute;
+  }
+  .draw16   {
+    border-top:2px solid hsl(0deg 0% 89.41%); 
+    right:70px;
+    width:320px;
+    top:224px;
+    position: absolute;
+  }
+  .opt   {
+    position: absolute;
+    left:910px;
+    font-size: 12px;
+  font-weight: 700;
+  top:210px;
+  }
+  .afi  {
+    position: absolute;
+    left:458px;
+    font-size: 12px;
+  font-weight: 700;
+  top:210px;
+  }
+  .rcs   {
+    position: absolute;
+    left:1060px;
+    font-size: 12px;
+  font-weight: 500;
+  top:240px;
+  }
+  .repli{
+  position: absolute;
+  left:1040px;
+  top:252px;
+  }
+  .sa  {
+    position: absolute;
+    left:1060px;
+    font-size: 12px;
+  font-weight: 500;
+  top:260px;
+  }
+  .sal{
+    position: absolute;
+    left:1040px;
+    top:272px;
+  }
+  .iban  {
+    position: absolute;
+    left:1060px;
+    font-size: 12px;
+  font-weight: 500;
+  top:280px;
+  }
+  .ib{
+    position: absolute;
+    left:1040px;
+    top:292px;
+  }
+  .ibana  {
+    position: absolute;
+    left:908px;
+    top:320px;
+    font-size: 12px;
+    font-weight: 500;
+  }
+  .aan  {
+    position: absolute;
+    left:888px;
+    top:355px;
+    font-size: 12px;
+    font-weight: 500;
+  }
+  .cbc  {
+    position: absolute;
+    left:926px;
+    top:380px;
+    font-size: 12px;
+    font-weight: 500;
+  }
+  .can   {
+    position: absolute;
+    left:890px;
+    top:404px;
+    font-size: 12px;
+    font-weight: 500;
+  }
+  .btn.aad  {
+    background-color:hsl(60deg 18.75% 93.73%) ;
+    color:hsl(180deg 1.92% 79.61%);
+    border: 1.5px hsl(180deg 1.92% 79.61%) solid;
+    height: 20px;
+    font-size: 12px;
+    margin-left: 1044px;
+  bottom: 170px;
+    border-radius: 0;
+    display: flex;
+    align-items: center;
+    position: absolute;
+  }
+  .draw1  {
+    height: 20px;
+    width:90px;
+    height: 20px;
+  margin-left: 197px;
+  top:70px;
+  position: absolute;
+  border-left: none;
+  border-right: none;
+  font-size: 12px;
+  border-radius: 0px;
+  font-weight: 500;
+  border-top: none;
+  border-bottom:2px solid hsl(0deg 0% 89.41%); 
+  }
+  .draw2  {
+    height: 20px;
+    width:50px;
+  margin-left: 197px;
+  border-radius: 0px;
+  top:93px;
+  position: absolute;
+  border-bottom:2px solid hsl(0deg 0% 89.41%); 
+  border-left: none;
+  border-right: none;
+  font-size: 12px;
+  font-weight: 500;
+  border-top: none;
+  }
+  .draw3  {
+    height: 20px;
+    width:70px;
+  margin-left: 197px;
+  top:117px;
+  position: absolute;
+  border-bottom:2px solid hsl(0deg 0% 89.41%); 
+  border-left: none;
+  border-radius: 0px;
+  border-right: none;
+  font-size: 12px;
+  font-weight: 500;
+  border-top: none;
+  }
+  .draw4  {
+    height: 20px;
+    width:150px;
+   top: 122px;
+ left: 522px;
+    position: absolute;
+    border-bottom:2px solid hsl(0deg 0% 89.41%); 
+    border-left: none;
+    border-radius: 0px;
+    border-right: none;
+    font-size: 12px;
+    font-weight: 500;
+    border-top: none;
+  }
+  .draw5  {
+    height: 20px;
+    background-color: hsl(0deg 0% 98.43%);
+    height:20px;
+    border-radius: 0px;
+    top:174px;
+    border-bottom: solid 1px hsl(0, 0%, 88%);
+    border-top: none;
+    width:140px;
+    right:1016px;
+    position: absolute;
+    border-left: none;
+    border-radius: 0px;
+  border-right: none;
+  }
+  
+  .draw6 {
+    height: 20px;
+    border-radius: 0px;
+    width:110px;
+    right: 1036px;
+    top:344px;
+    position: absolute;
+    border-bottom:2px solid hsl(0deg 0% 89.41%); 
+  border-left: none;
+  border-right: none;
+  font-size: 12px;
+  font-weight: 500;
+  border-top: none;
+  }
+  .draw7{
+    border-radius: 0px;
+    width:148px;
+    right: 997px;
+  top:518px;
+    position: absolute;
+    border-bottom:2px solid hsl(0deg 0% 89.41%);  
+  border-left: none;
+  border-right: none;
+  font-size: 12px;
+  font-weight: 500;
+  border-top: none;
+  height: 20px;
+  }
+  .draw8 {
+    height: 20px;
+    position: absolute;
+    right:1006px;
+    border-radius: 0px;
+    width:140px;
+    top:368px;
+    border-bottom:2px solid hsl(0deg 0% 89.41%); 
+  border-left: none;
+  border-right: none;
+  font-size: 12px;
+  font-weight: 500;
+  border-top: none;
+  }
+  .draw9 {
+    border-bottom:2px solid hsl(0deg 0% 89.41%); 
+    border-left: none;
+    border-right: none;
+    font-size: 12px;
+    font-weight: 500;
+    border-top: none;
+    right:966px;
+    top:392px;
+    position: absolute;
+    width:180px;
+    height: 20px;
+    border-radius: 0px;
+  }
+  .draw10 {
+    border-bottom:2px solid hsl(0deg 0% 89.41%); 
+    border-left: none;
+    height: 20px;
+    border-right: none;
+    font-size: 12px;
+    font-weight: 500;
+    border-top: none;
+    right:965px;
+    border-radius: 0px;
+    width:180px;
+    top:417px;
+    position: absolute;
+  }
+  
+  .draw11 {
+    border-bottom:2px solid hsl(0deg 0% 89.41%); 
+    border-left: none;
+    border-right: none;
+    font-size: 12px;
+    font-weight: 500;
+    border-top: none;
+    border-radius: 0px;
+    right:965px;
+    width:180px;
+    top:443px;
+    position: absolute;
+    height: 20px;
+  }
+  .draw12 {
+    border-bottom:2px solid hsl(0, 0%, 89%); 
+    border-left: none;
+    border-right: none;
+    font-size: 12px;
+    font-weight: 500;
+    border-top: none;
+    height: 20px;
+    right:965px;
+    width:180px;
+    top:468px;
+    border-radius: 0px;
+    position: absolute;
+    }
+    .draw13 {
+      border-bottom:2px solid hsl(0deg 0% 89.41%); 
+      border-left: none;
+      border-right: none;
+      font-size: 12px;
+      font-weight: 500;
+      height: 20px;
+      border-top: none;
+      right:965px;
+      width:180px;
+      border-radius: 0px;
+      top:493px;
+      position: absolute;
+    }
+    .draw14  {
+      height: 20px;
+      border-bottom:2px solid hsl(0, 0%, 89%); 
+      border-left: none;
+      border-right: none;
+      font-size: 12px;
+      font-weight: 500;
+      border-top: none;
+      right:1010px;
+      width:130px;
+      top:250px;
+      border-radius: 0px;
+      position: absolute;
+    }
+    
+    .draw17  {
+      border-top:2px solid hsl(0deg 0% 89.41%); 
+      right:500px;
+      width:300px;
+      top:372px;
+      position: absolute;
+    }
+    .draw18  {
+      height: 20px;
+      border-bottom:2px solid hsl(0deg 0% 89.41%); 
+      border-left: none;
+      border-right: none;
+      font-size: 12px;
+      font-weight: 500;
+      border-top: none;
+      border-radius: 0px;
+      right:539px;
+      width:140px;
+      top:388px;
+      position: absolute;
+    }
+    .draw19 {
+      height: 20px;
+      background-color: hsl(0deg 0% 98.43%);
+    height:19px;
+    border-bottom:2px solid hsl(0deg 0% 89.41%); 
+    border-top: none;
+  border-left: none;
+  border-right: none;
+    width:48px;
+    border-radius: 0px;
+    right:630px;
+  top:456px;
+    position: absolute;
+    }
+    .draw20  {
+      height: 20px;
+      border-bottom:2px solid hsl(0deg 0% 89.41%); 
+      border-left: none;
+      border-right: none;
+      font-size: 12px;
+      font-weight: 500;
+      border-top: none;
+      border-radius: 0px;
+      right:538px;
+      width:140px;
+      top:478px;
+      position: absolute;
+    }
+    .draw21  {
+      height: 20px;
+      background-color: hsl(0deg 0% 98.43%);
+      height:18px;
+      border-bottom: solid 1px hsl(0, 0%, 88%);
+      border-top: none;
+      width:150px;
+      border-radius: 0px;
+      top:78px;
+      left:900px;
+      border-radius: 0px;
+      position: absolute;
+      border-left: none;
+      border-right: none;
+    }
+    .draw22 {
+      height: 20px;
+      background-color: hsl(0deg 0% 98.43%);
+      height:18px;
+      border-radius: 0px;
+      border-left: none;
+      border-right: none;
+      border-bottom: solid 1px hsl(0, 0%, 88%);
+      border-top: none;
+      width:150px;
+      top:99px;
+      left:900px;
+      position: absolute;
+         border-radius: 0px;
+
+    }
+   
+    .draw24 {
+      height: 20px;
+      border-bottom:2px solid hsl(0deg 0% 89.41%); 
+      border-left: none;
+      border-right: none;
+      font-size: 12px;
+      font-weight: 500;
+      border-radius: 0px;
+      border-top: none;
+    right:300px;
+    top:155px;
+    position: absolute;
+    width:150px;
+    }
+    .draw25  {
+      height: 20px;
+      border-bottom:2px solid hsl(0deg 0% 89.41%); 
+      border-left: none;
+      border-right: none;
+      font-size: 12px;
+      font-weight: 500;
+      border-top: none;
+      border-radius: 0px;
+      width:110px;
+      right: 195px;
+      top:330px;
+      position: absolute;
+    }
+    .draw26  {
+      height: 20px;
+      border-bottom:2px solid hsl(0deg 0% 89.41%); 
+      border-left: none;
+      border-right: none;
+      font-size: 12px;
+      font-weight: 500;
+      border-top: none;
+      width:130px;
+      right: 175px;
+      border-radius: 0px;
+      top:355px;
+      position: absolute;
+    }
+    .draw27  {
+      height: 20px;
+      border-bottom:2px solid hsl(0deg 0% 89.41%); 
+      border-left: none;
+      border-right: none;
+      font-size: 12px;
+      font-weight: 500;
+      border-top: none;
+      width:110px;
+      border-radius: 0px;
+      right: 195px;
+      top:380px;
+      position: absolute;
+    } 
+    .draw28  {
+      height: 20px;
+      border-bottom:2px solid hsl(0deg 0% 89.41%); 
+      border-left: none;
+      border-right: none;
+      border-radius: 0px;
+      font-size: 12px;
+      font-weight: 500;
+      border-top: none;
+      width:130px;
+      right: 176px;
+      top:405px;
+      position: absolute;
+    }
+    .mistake{
+      bottom: 594px;
+      position: absolute;
+    left: 530px;
+    height: 17px;
+    width: 18px;
+    }
+    .mis{
+      color:#ff1900;
+      bottom: 575px;
+      font-size: 16px;
+      font-weight: 500;
+      position: absolute;
+    left: 555px;
+    }
+   
